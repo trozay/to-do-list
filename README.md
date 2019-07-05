@@ -6,6 +6,8 @@ This a simple to-do-list i created using react, html and css, you can add items 
 ## Built With
 
 * [React](https://reactjs.org/)
+* [HTML](https://html.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Author
 
